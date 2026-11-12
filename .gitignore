@@ -1,0 +1,5 @@
+**/port_*/
+**/internal/
+**/.knimeLock
+**/.savedWithData
+.DS_Store
