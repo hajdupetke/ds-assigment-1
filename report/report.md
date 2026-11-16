@@ -7,7 +7,7 @@
 
 Weather conditions can have an important effect on electricity production in Sweden. As the country uses renewable energy sources such as hydropower and wind power, weather becomes an important factor in how much electricity can be generated. This study explores the relationship between monthly weather conditions and electricity production from August 2024 to July 2026. The aim is to identify possible patterns and seasonal changes rather than prove that weather causes changes in production.
 
-_[Praj: Add 2–3 sentences here about Sweden's electricity production, its main energy sources and why it is useful to study monthly production.]_
+Sweden produced about 168 TWh of electricity per year during the study period, almost entirely from low-carbon sources. Hydropower supplied about 39 % of the total, nuclear power 26 %, wind power 25 % and renewable thermal power about 6 %. Studying production month by month shows how these sources follow the seasons, which yearly totals would hide.
 
 Three main weather variables were selected from SMHI: temperature, precipitation and wind speed. Temperature matters because colder weather increases the need for heating, which can raise electricity demand and production from thermal power plants. Precipitation contributes to water availability for hydropower, and wind speed influences how much electricity wind turbines can produce. Sunshine duration would be relevant for solar power, but it was not included in our dataset.
 
