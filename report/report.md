@@ -1,7 +1,10 @@
 # Weather and Energy Production in Sweden
 
-<!-- Group report. Sections: Introduction, Method, Results and discussion.
-     Each section needs at least 200 words; whole report 600–1,000 words; 4–10 figures. -->
+**Authors:**
+
+- Péter Dávid Hajdu
+- Prajval Parthiban
+- Christos Zampounis
 
 ## Introduction and motivation
 
